@@ -1,1 +1,1 @@
-# Put your ".pth" file here
+# Add ".pkl" model file here
